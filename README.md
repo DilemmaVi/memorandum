@@ -1,8 +1,7 @@
 # 伍佰搜服系统使用说明书
-一、后台系统使用说明书
 
 **1.运行环境**
-- IIS7.0以上
+- IIS7.0以上，分配网址信息后，需要更改应用程序池此网站的.NET Framework为4.0，托管管道模式为集成
 - Microsoft .NET Framework 4.0，安装包地址：https://www.microsoft.com/zh-cn/download/details.aspx?id=17718
 - MVC4.0以上， 安装包地址：http://www.jb51.net/softs/103800.html
 - 数据库为sqlserver2008以上
